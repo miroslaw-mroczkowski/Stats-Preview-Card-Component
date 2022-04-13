@@ -244,6 +244,7 @@ body {
         -ms-flex-pack: start;
             justify-content: start;
     width: 100%;
+    padding-right: 8rem;
   }
   .card-container .card .card__stats .stat-item {
     display: -webkit-box;
