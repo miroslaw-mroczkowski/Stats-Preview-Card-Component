@@ -23,7 +23,8 @@ The designs were created to the following widths:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./images/screenshot-desktop.PNG)
+![](./images/screenshot-mobile.PNG)
 
 ### Links
 
@@ -38,7 +39,8 @@ The designs were created to the following widths:
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
+- SCSS
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@miroslaw-mroczkowski](https://www.frontendmentor.io/profile/miroslaw-mroczkowski)
