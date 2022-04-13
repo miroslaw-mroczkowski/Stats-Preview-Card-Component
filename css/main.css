@@ -216,18 +216,19 @@ body {
     padding: 0 8rem;
     margin: 3rem 0;
   }
-  .card-container .card__title, .card-container .card__text {
+  .card-container .card__title {
+    margin-bottom: 2.4rem;
+    font-size: 4.2rem;
     text-align: left;
     -webkit-margin-end: 9rem;
             margin-inline-end: 9rem;
   }
-  .card-container .card__title {
-    margin-bottom: 2.4rem;
-    font-size: 4.2rem;
-  }
   .card-container .card__text {
     font-size: 1.8rem;
     margin-bottom: 7.5rem;
+    text-align: left;
+    -webkit-margin-end: 9rem;
+            margin-inline-end: 9rem;
   }
   .card-container .card .card__stats {
     display: -webkit-box;
