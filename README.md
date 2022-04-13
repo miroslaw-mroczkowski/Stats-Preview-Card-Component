@@ -12,7 +12,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [Built with](#built-with)
 - [Author](#author)
 
-
 ## Overview
 
 ### The challenge
@@ -28,8 +27,8 @@ The designs were created to the following widths:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Stats Preview Card Component](https://github.com/miroslaw-mroczkowski/Stats-Preview-Card-Component)
+- Live Site URL: [Stats Preview Card Component](https://miroslaw-mroczkowski.github.io/Stats-Preview-Card-Component/)
 
 ## My process
 
@@ -42,6 +41,4 @@ The designs were created to the following widths:
 
 ## Author
 
-
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-
